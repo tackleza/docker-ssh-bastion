@@ -1,5 +1,8 @@
 # SSH Bastion Host — Jump Box with Interactive Menu
 
+**GitHub:** https://github.com/tackleza/docker-ssh-bastion
+**Docker Hub:** https://hub.docker.com/r/tackleza/bastion
+
 A Docker image for a secure SSH bastion/jump host. Two user accounts are provided:
 
 - **`menu`** — interactive menu to select and connect to remote servers
